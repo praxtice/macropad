@@ -4,9 +4,9 @@ using the [launchpad](https://github.com/rakyll/launchpad) and [robotgo](https:/
 
 
 TODO:
-[ ] Create Config File
-[ ] Make Run in background
+- [ ] Create Config File
+- [ ] Make Run in background
 
 Stretch:
-[ ] Record macros
-[ ] GUI for making macros
+- [ ] Record macros
+- [ ] GUI for making macros
